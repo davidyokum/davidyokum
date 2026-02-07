@@ -24,13 +24,6 @@ Please include:
 2. **The Project Name** you are interested in.
 3. **Your relationship and rationale** (e.g. I'm at agency X, interested in replicating).
 
-## Public Portfolio
-
-You can find my open-source work and public projects here:
-
-* [GitHub Profile](https://github.com/yourusername)
-* [Personal Website](https://yourwebsite.com)
-
 ---
 
 *This index is maintained by David Yokum. Last updated: {{DATE}}*
