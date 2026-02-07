@@ -1,6 +1,6 @@
 # Private Projects & Works in Progress 
 
-Welcome! This repository serves as an index for my private projects and ongoing development work that isn't publicly available yet.
+Welcome! This repository serves as an index for projects and ongoing development work that isn't publicly available yet.
 
 If you're looking for a specific project or codebase listed below, please follow the instructions to request access.
 
