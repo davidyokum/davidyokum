@@ -4,7 +4,7 @@ Welcome! This repository serves as an index for my private projects and ongoing 
 
 If you're looking for a specific project or codebase listed below, please follow the instructions to request access.
 
-## 🔒 Current Private Projects
+## 🔒 Select Private Projects
 
 | Project Name                | Description                                                                                | Status         | Tech Stack                                             |
 | :-------------------------- | :----------------------------------------------------------------------------------------- | :------------- | :----------------------------------------------------- |
